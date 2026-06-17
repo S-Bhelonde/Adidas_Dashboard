@@ -58,3 +58,14 @@ This project demonstrates skills in:
 
 ✨ A complete end-to-end BI solution showcasing how data can be turned into meaningful insights through effective visualization.
 
+<img width="601" height="344" alt="Home_adidas_dashboard" src="https://github.com/user-attachments/assets/fdcbe423-d3f8-45aa-adb8-fff590fbef54" />
+<img width="547" height="314" alt="Product_analysis_adidas_dashboard" src="https://github.com/user-attachments/assets/e9a5895d-d38b-4c5b-877a-615449a475cb" />
+<img width="547" height="309" alt="Performance_analysis_adidas_dashboard1" src="https://github.com/user-attachments/assets/d9fb50b6-9b38-422d-b6ab-3c1acc9cf0f1" />
+<img width="542" height="307" alt="Executive_overview_adidas_dashboard" src="https://github.com/user-attachments/assets/3a66c5c1-e7c0-4a50-b8cc-98313700fe8b" />
+<img width="544" height="311" alt="Customer_analysis_adidas_dashboard" src="https://github.com/user-attachments/assets/45ce605a-93b1-44a9-b609-a480ff7bd86d" />
+
+
+
+
+
+
